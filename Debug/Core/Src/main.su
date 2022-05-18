@@ -1,0 +1,9 @@
+main.c:68:6:RED_Blink	24	static
+main.c:78:6:GREEN_Blink	24	static
+main.c:100:5:main	80	static
+main.c:190:6:SystemClock_Config	112	static
+main.c:235:13:MX_SPI1_Init	8	static
+main.c:275:13:MX_TIM1_Init	32	static
+main.c:321:13:MX_USART1_UART_Init	8	static
+main.c:356:13:MX_GPIO_Init	48	static
+main.c:414:6:Error_Handler	8	static,ignoring_inline_asm
